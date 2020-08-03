@@ -1,3 +1,4 @@
+// Reference: https://youtu.be/mS9755gF66w
 #include <iostream>
 
 struct Vector2 {
